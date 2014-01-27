@@ -1,4 +1,4 @@
-OpenSCAD script to generate a sixteen sided "spherical cap" style hexadecimal die.
+OpenSCAD script to generate a sixteen sided "spherical cap" style hexadecimal die. [Download the STL file](./sixteen-sided-hexidecimal-die.stl) to print.
 
 ![Render of the hexadecimal die](./render.png)
 

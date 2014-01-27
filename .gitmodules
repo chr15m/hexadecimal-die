@@ -1,0 +1,3 @@
+[submodule "write"]
+	path = write
+	url = https://github.com/rohieb/Write.scad.git
